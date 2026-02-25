@@ -44,7 +44,7 @@ import ProductInfo from "@/components/product/ProductInfo.vue";
 import ProductTabs from "@/components/product/ProductTabs.vue";
 import RelatedProducts from "@/components/product/RelatedProducts.vue";
 import RecommendedProducts from "@/components/product/RecomendedProducts.vue";
-import RecentlyViewedProducts from "@/components/Product/RecentlyVewedProducts.vue";
+import RecentlyViewedProducts from "@/components/product/RecentlyVewedProducts.vue";
 
 const route = useRoute();
 const productsStore = useProductsStore();
