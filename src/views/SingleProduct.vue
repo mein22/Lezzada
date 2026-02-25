@@ -39,12 +39,12 @@ import { useRoute } from "vue-router";
 import { useProductsStore } from "@/stores/products";
 import { useRecentlyViewedStore } from "@/stores/recentlyViewed";
 
-import ProductGallery from "@/components/product/ProductGallery.vue";
-import ProductInfo from "@/components/product/ProductInfo.vue";
-import ProductTabs from "@/components/product/ProductTabs.vue";
-import RelatedProducts from "@/components/product/RelatedProducts.vue";
-import RecommendedProducts from "@/components/product/RecomendedProducts.vue";
-import RecentlyViewedProducts from "@/components/product/RecentlyVewedProducts.vue";
+import ProductGallery from "@/components/Product/ProductGallery.vue";
+import ProductInfo from "@/components/Product/ProductInfo.vue";
+import ProductTabs from "@/components/Product/ProductTabs.vue";
+import RelatedProducts from "@/components/Product/RelatedProducts.vue";
+import RecommendedProducts from "@/components/Product/RecomendedProducts.vue";
+import RecentlyViewedProducts from "@/components/Product/RecentlyVewedProducts.vue";
 
 const route = useRoute();
 const productsStore = useProductsStore();
