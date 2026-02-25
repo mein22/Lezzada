@@ -42,7 +42,7 @@
       </h2>
       <p class="text-lg text-gray-600 mb-8">Caught in the moment!</p>
       <RouterLink
-        to="/shop"
+        to="/collections"
         class="inline-block bg-[#333] text-white border border-[#333] px-10 py-3 text-sm tracking-widest transition-all duration-300 hover:bg-transparent hover:text-[#333]"
       >
         SHOP NOW
