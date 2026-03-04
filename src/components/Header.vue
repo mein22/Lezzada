@@ -2,10 +2,11 @@
   <header class="w-full border-b border-gray-100">
     <div class="max-w-7xl mx-auto flex items-center justify-between px-6 py-6">
       <!-- LOGO -->
-      <div class="text-2xl font-semibold tracking-widest">
+      <div class="flex items-center">
         <img
-          src="https://lezada-demo.myshopify.com/cdn/shop/files/logo_300x300.png?v=1613746425"
-          alt=""
+          src="../assets/icons/Lezzada.png"
+          alt="Lezzada Logo"
+          class="h-10 w-auto"
         />
       </div>
 
